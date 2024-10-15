@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DayaIngat</string>
+    <string name="refresh">Refresh</string>
+    <string name="choose_new_size">Game baru</string>
+    <string name="create_custom_game">Buat game-mu sendiri </string>
+    <string name="download_custom_game">Download game yang tersedia</string>
+    <string name="keluar">Keluar ➡️</string>
+</resources>
